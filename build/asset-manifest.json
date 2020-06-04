@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/ladingpage-final/static/css/main.11eb9c65.chunk.css",
+    "main.js": "/ladingpage-final/static/js/main.d9657918.chunk.js",
+    "main.js.map": "/ladingpage-final/static/js/main.d9657918.chunk.js.map",
+    "runtime-main.js": "/ladingpage-final/static/js/runtime-main.e4927dde.js",
+    "runtime-main.js.map": "/ladingpage-final/static/js/runtime-main.e4927dde.js.map",
+    "static/js/2.dfa803f2.chunk.js": "/ladingpage-final/static/js/2.dfa803f2.chunk.js",
+    "static/js/2.dfa803f2.chunk.js.map": "/ladingpage-final/static/js/2.dfa803f2.chunk.js.map",
+    "index.html": "/ladingpage-final/index.html",
+    "precache-manifest.3e339925c62825f33d70d81ae33651a2.js": "/ladingpage-final/precache-manifest.3e339925c62825f33d70d81ae33651a2.js",
+    "service-worker.js": "/ladingpage-final/service-worker.js",
+    "static/css/main.11eb9c65.chunk.css.map": "/ladingpage-final/static/css/main.11eb9c65.chunk.css.map",
+    "static/js/2.dfa803f2.chunk.js.LICENSE.txt": "/ladingpage-final/static/js/2.dfa803f2.chunk.js.LICENSE.txt",
+    "static/media/Img.jpg": "/ladingpage-final/static/media/Img.10d22939.jpg",
+    "static/media/Meeting.svg": "/ladingpage-final/static/media/Meeting.8e82115d.svg",
+    "static/media/cardescolha.svg": "/ladingpage-final/static/media/cardescolha.e0715f02.svg",
+    "static/media/cardfoguete2.svg": "/ladingpage-final/static/media/cardfoguete2.143ebb23.svg",
+    "static/media/cardwebsite.svg": "/ladingpage-final/static/media/cardwebsite.4f457608.svg",
+    "static/media/flogo.svg": "/ladingpage-final/static/media/flogo.d0907d84.svg",
+    "static/media/landing.svg": "/ladingpage-final/static/media/landing.9b384892.svg",
+    "static/media/perguntas.svg": "/ladingpage-final/static/media/perguntas.e9a202d8.svg",
+    "static/media/personalize.svg": "/ladingpage-final/static/media/personalize.6be16dae.svg",
+    "static/media/wordpress.svg": "/ladingpage-final/static/media/wordpress.67d2b0a2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e4927dde.js",
+    "static/js/2.dfa803f2.chunk.js",
+    "static/css/main.11eb9c65.chunk.css",
+    "static/js/main.d9657918.chunk.js"
+  ]
+}
